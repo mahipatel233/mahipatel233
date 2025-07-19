@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @mahipatel233
+👋 Hi, 
+I’m @mahipatel233
 
 💼 I’m a Frontend Developer & UI/UX Designer passionate about crafting creative and user-centered digital experiences. Skilled in HTML, CSS, JavaScript, ReactJS, Figma, and Firebase.
 
