@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mahi Patel
 
-🎓 Final Year Computer Engineering Student at Ganpat University  
-🧪 Aspiring QA Engineer | Manual & Automation Testing Enthusiast  
-🌱 Currently learning Selenium, Postman, API Testing, Git, and CI/CD  
-📍 From Vijapur, Gujarat | Completed schooling from JNV Mehsana  
-💻 I love testing applications and ensuring quality user experience
+Final Year Computer Engineering Student at Ganpat University  
+Aspiring QA Engineer | Manual & Automation Testing Enthusiast  
+ Currently learning Selenium, Postman, API Testing, Git, and CI/CD  
+From Vijapur, Gujarat | Completed schooling from JNV Mehsana  
+I love testing applications and ensuring quality user experience
 
 ---
 
