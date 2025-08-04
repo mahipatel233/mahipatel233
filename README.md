@@ -29,7 +29,7 @@ I enjoy finding bugs, writing test cases, and working on improving application p
 
 > *(More projects coming soon – currently working on Selenium and Postman-based test automation)*
 
-- 🔍 **E-commerce Manual Testing** – Creating test cases and bug reports for a demo shopping website  
+- 🔍 **electonics E-commerce Manual Testing** – Creating test cases and bug reports for a demo shopping website 
 - 🔐 **Login Automation with Selenium** – Automating login flow of a sample web app using Python  
 - 🔗 **API Testing with Postman** – Testing fake API endpoints and generating CLI reports using Newman
 
