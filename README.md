@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahi Patel
+#  Hi, I'm Mahi Patel
 
 -> Final Year Computer Engineering Student at Ganpat University  
 -> Aspiring QA Engineer | Manual & Automation Testing Enthusiast  
@@ -15,17 +15,17 @@ I enjoy finding bugs, writing test cases, and working on improving application p
 
 ---
 
-## 🧠 Skills & Tools
+##  Skills & Tools
 
-- ✔️ **Manual Testing**: SDLC, STLC, Test Cases, Bug Reports, Severity vs Priority
-- ✔️ **Automation Testing**: Selenium (Python)
-- ✔️ **API Testing**: Postman, Newman
-- ✔️ **Tools**: Git, GitHub, VS Code, Jenkins (Basic)
-- ✔️ **Languages**: Python (Basic), JavaScript (Basic), SQL
+-  **Manual Testing**: SDLC, STLC, Test Cases, Bug Reports, Severity vs Priority
+-  **Automation Testing**: Selenium (Python)
+-  **API Testing**: Postman, Newman
+-  **Tools**: Git, GitHub, VS Code, Jenkins (Basic)
+-  **Languages**: Python (Basic), JavaScript (Basic), SQL
 
 ---
 
-## 🧪 QA Projects
+## QA Projects
 
 > *(More projects coming soon – currently working on Selenium and Postman-based test automation)*
 
