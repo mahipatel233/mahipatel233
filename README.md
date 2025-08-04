@@ -2,7 +2,7 @@
 
 -> Final Year Computer Engineering Student at Ganpat University  
 -> Aspiring QA Engineer | Manual & Automation Testing Enthusiast  
--> Currently learning Selenium, Postman, API Testing, Git, and CI/CD   
+-> Currently learning Selenium with python, Postman and API Testing  
 -> I love testing applications and ensuring quality user experience
 
 ---
