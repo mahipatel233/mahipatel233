@@ -1,42 +1,55 @@
 # 👋 Hi, I'm Mahi Patel
 
-🎓 B.Tech Computer Engineering Student (Final Year) | QA Enthusiast  
-🧪 Learning and exploring Manual + Automation Testing  
-📍 Based in Gujarat | Looking for QA Internship / Fresher Roles
+🎓 Final Year Computer Engineering Student at Ganpat University  
+🧪 Aspiring QA Engineer | Manual & Automation Testing Enthusiast  
+🌱 Currently learning Selenium, Postman, API Testing, Git, and CI/CD  
+📍 From Vijapur, Gujarat | Completed schooling from JNV Mehsana  
+💻 I love testing applications and ensuring quality user experience
 
 ---
 
-## 🛠️ Skills
+## 💡 About Me
 
-- **Manual Testing:** Test Cases, Bug Reports, Test Plans, STLC, SDLC  
-- **Automation Tools:** Selenium (Python), Postman, JMeter  
-- **API Testing:** Postman, Newman, Rest API basics  
-- **Languages:** Python, JavaScript (Basics), SQL  
-- **Others:** Git, GitHub, Jenkins (basics), VS Code
+I'm passionate about software quality and testing.  
+I enjoy finding bugs, writing test cases, and working on improving application performance and reliability. I'm learning both manual and automation testing tools to build a strong foundation for my career in QA.
 
 ---
 
-## 📂 QA Projects
+## 🧠 Skills & Tools
 
-### 🔍 Login Test Automation – Selenium
-Automated a login page using Selenium WebDriver and Python.
-
-### 🧪 API Testing Suite – Postman
-Created test collections for public APIs with assertions and CLI reports using Newman.
-
-### 🛒 E-commerce Manual Testing
-Designed and documented test cases, test scenarios, and bug reports for an e-commerce demo app.
-
-👉 [See all my projects](https://github.com/mahipatel233?tab=repositories)
+- ✔️ **Manual Testing**: SDLC, STLC, Test Cases, Bug Reports, Severity vs Priority
+- ✔️ **Automation Testing**: Selenium (Python)
+- ✔️ **API Testing**: Postman, Newman
+- ✔️ **Tools**: Git, GitHub, VS Code, Jenkins (Basic)
+- ✔️ **Languages**: Python (Basic), JavaScript (Basic), SQL
 
 ---
 
-## 🌐 Portfolio & Social Links
+## 🧪 QA Projects
 
-- 💼 [Portfolio](https://portfolio-mahi-nine.vercel.app)
+> *(More projects coming soon – currently working on Selenium and Postman-based test automation)*
+
+- 🔍 **E-commerce Manual Testing** – Creating test cases and bug reports for a demo shopping website  
+- 🔐 **Login Automation with Selenium** – Automating login flow of a sample web app using Python  
+- 🔗 **API Testing with Postman** – Testing fake API endpoints and generating CLI reports using Newman
+
+---
+
+## 🌐 Portfolio & Socials
+
+- 💼 [Portfolio Website](https://portfolio-mahi-nine.vercel.app)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahi23032005)
 - 🐱 [GitHub](https://github.com/mahipatel233)
 
 ---
 
-> 📫 I'm open to internships and entry-level QA roles. Let’s connect!
+## 🎯 Goals
+
+- ✅ Complete hands-on projects in Selenium and Postman
+- ✅ Learn test automation frameworks (PyTest)
+- ✅ Contribute to open-source QA projects
+- ✅ Start internship/full-time job in QA role
+
+---
+
+📫 **Let’s connect! I'm open to internship and fresher QA roles.**
